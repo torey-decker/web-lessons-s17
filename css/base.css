@@ -170,12 +170,12 @@ a:active{
 
 .align-left {
 	float: left;
-	margins: 0 10px 0 0;
+	margin: 0 10px 0 0;
 }
 
 .align-right {
 	float: right;
-	margins: 0 0 0 10px;
+	margin: 0 0 0 10px;
 }
 
 .align-center {
