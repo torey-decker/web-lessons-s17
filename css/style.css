@@ -173,6 +173,9 @@ video{
 
 /* about Us*/ 
 
+.about h2 {
+	text-align: center;
+}
 
 .about {
 	width: 100%;
@@ -186,6 +189,7 @@ video{
 	padding: 0;
 	padding-bottom: 10px;
 	line-height: 1;
+	
 }
 
 
@@ -233,6 +237,10 @@ video{
 
 
 /* available features*/ 
+
+.features h2{
+	text-align: center;
+}
 .features{
 	width: 100%; 
 	padding: 100px 0;
@@ -300,6 +308,10 @@ video{
 
 /*-----Locations-----*/
 
+.locations h2{
+	text-align: center;
+}
+
 #locations {
 	width: 100%;
 	padding:100px;
@@ -310,6 +322,7 @@ video{
 
 .locations h4 {
 	margin-bottom: 10px;
+	
 
 }
 
@@ -371,6 +384,7 @@ video{
 
 #contact h2 {
 	padding-bottom: 20px;
+	text-align: center;
 }
 
 #contact p {
@@ -414,6 +428,7 @@ video{
 	text-overflow: '';
 	width: 100%;
 	height: 35px;
+	
 }
 
 .city{
